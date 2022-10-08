@@ -1,6 +1,6 @@
 # Abaixo modelagem do Banco de dados
 
-![Imagem]()
+![Imagem](https://imgur.com/0givpCy)
 
 ## Ferramentas utilizadas
 
