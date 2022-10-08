@@ -4,6 +4,6 @@
 
 ## Ferramentas utilizadas
 
-- Java - Versão
+- Java
 - Spring Boot
 - PostgreSQL
