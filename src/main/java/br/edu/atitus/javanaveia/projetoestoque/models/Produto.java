@@ -1,4 +1,4 @@
-package model;
+package br.edu.atitus.javanaveia.projetoestoque.models;
 
 public class Produto {
     private int id;

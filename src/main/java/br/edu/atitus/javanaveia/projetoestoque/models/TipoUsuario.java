@@ -1,5 +1,5 @@
 
-package model;
+package br.edu.atitus.javanaveia.projetoestoque.models;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

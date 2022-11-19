@@ -1,4 +1,4 @@
-package PjEstoque;
+package br.edu.atitus.javanaveia.projetoestoque.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,8 +1,8 @@
-package model;
+package br.edu.atitus.javanaveia.projetoestoque.models;
 
 import java.time.LocalDate;
 
-public class Saida {
+public class Entrada {
 
     private int id;
     private Produto produto;
